@@ -1,4 +1,3 @@
-import { DecimationAlgorithm } from "chart.js";
 import React from "react";
 
 const obj = [
