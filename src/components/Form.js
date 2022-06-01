@@ -1,6 +1,6 @@
 import React from "react";
 import { useForm } from "react-hook-form";
-import List from "./List/";
+import List from "./List";
 
 export default function Form() {
   const { register, handleSubmit, resetField } = useForm();
